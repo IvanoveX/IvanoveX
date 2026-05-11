@@ -1,8 +1,8 @@
-# 💫 About Me:
-B.S. Student in Artificial Intelligence<br>🚀 Focus: NLP • Computer Vision • Web Development<br>🛠️ Tech: Software Engineering, API Integration, and Data Structuring<br>🌎 International academic experience & English fluency. Passionate about building intelligent, scalable solutions.
+# 🌐 About Me:
+🎓 B.S. in Artificial Intelligence @ UNIMAR<br>🛠️ Focused on Web Development, Computer Vision, and Semantic Web<br>🇺🇸 International experience | English C1<br>🚀 Building intelligent and scalable data-driven solutions.
 
 
-## 🌐 Socials:
+## 📞 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-del-roio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:delroioivan@gmail.com) 
 
 # 💻 Tech Stack:
